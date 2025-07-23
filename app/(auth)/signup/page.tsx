@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Signup } from "../../../components/Signup";
 
-export default function() {
+export default function SignupPage() {
   return (
     <div>
     <Signup />
